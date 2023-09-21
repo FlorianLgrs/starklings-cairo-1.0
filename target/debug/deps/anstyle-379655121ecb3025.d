@@ -1,0 +1,10 @@
+/Users/florianlegros/Documents/Autres projets/starklings/target/debug/deps/anstyle-379655121ecb3025.rmeta: /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/Users/florianlegros/Documents/Autres projets/starklings/target/debug/deps/anstyle-379655121ecb3025.d: /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs:
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs:
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs:
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs:
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs:
+/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs:
