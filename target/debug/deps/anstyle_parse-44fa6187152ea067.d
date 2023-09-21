@@ -1,9 +1,0 @@
-/Users/florianlegros/Documents/Autres projets/starklings/target/debug/deps/anstyle_parse-44fa6187152ea067.rmeta: /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
-
-/Users/florianlegros/Documents/Autres projets/starklings/target/debug/deps/anstyle_parse-44fa6187152ea067.d: /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
-
-/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs:
-/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs:
-/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs:
-/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs:
-/Users/florianlegros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs:
